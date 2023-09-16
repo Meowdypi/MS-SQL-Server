@@ -2,6 +2,7 @@
 
 If a Database diagram does not already exist, we can create a new one by right clicking 'Database Diagrams' and selecting 'New Database Diagram'
 
+
 ![image](https://github.com/Meowdypi/MS-SQL-Server/assets/122643833/99b2801a-4d94-4a93-adf0-044efd10b6dc)
 
 
